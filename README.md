@@ -1,2 +1,2 @@
-# Portfoliotemplate
-Personial portfolio website template.
+# ShamoTechie
+Personal portfolio website template.
